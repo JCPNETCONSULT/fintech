@@ -16,7 +16,7 @@ namespace Fintech
     /// <summary>
     /// Summary description for WebService1
     /// </summary>
-    [WebService(Namespace = "http://eseokpako-001-site1.itempurl.com")]
+    [WebService(Namespace = "http://savease.ng/")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [ToolboxItem(false)]
     [ScriptService]
